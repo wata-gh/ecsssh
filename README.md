@@ -5,7 +5,7 @@ ssh to hako ECS instances.
 ## Installation
 
 ```ruby
-gem install -s https://gems.ckpd.co hakossh
+gem install -s https://gemstash.ckpd.co/private hakossh
 ```
 
 ## Usage

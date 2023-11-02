@@ -2,7 +2,7 @@ require 'optparse'
 require 'aws-sdk'
 require 'peco_selector'
 
-module Hakossh
+module Ecsssh
   class CLI
     SHORT_REGIONS = {
       'apne1' => 'ap-northeast-1',
